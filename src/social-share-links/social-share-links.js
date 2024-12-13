@@ -11,9 +11,9 @@ function initSocialShares() {
 			social.href = 'https://www.reddit.com/submit?url=' + encodedUrl 
 		} else if (socialName === 'facebook') {
 			social.href = 'https://www.facebook.com/sharer/sharer.php?u=' + encodedUrl 
-		} else if (socialName === 'linkedin') {
-			social.href = 'https://www.linkedin.com/shareArticle?mini=true&url=' + encodedUrl 
-		}
+        } else if (socialName === 'linkedin') {
+            social.href = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+        }
 	})
 }
 
