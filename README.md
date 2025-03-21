@@ -14,9 +14,6 @@ A JavaScript module that converts specially formatted text into responsive HTML 
 - Custom CSS class assignments
 - Named tables for reference
 
-### Usage Example:
-```
-
 ## Social Share Links
 
 A lightweight module that adds social media sharing functionality to your website. Simply add the appropriate attribute to your HTML elements to enable sharing on various platforms.
@@ -26,5 +23,3 @@ A lightweight module that adds social media sharing functionality to your websit
 - Reddit
 - Facebook
 - LinkedIn
-
-### Usage Example:
