@@ -75,7 +75,3 @@ Include the desired module scripts in your HTML:
 <script src="src/social-share-links/social-share-links.js"></script>
 <script src="src/debug-logger/debug-logger.js"></script>
 ```
-
-## License
-
-This project is open source and available under the MIT License.
